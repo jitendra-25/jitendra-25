@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jitendra, currently working as a Full Stack developer in .Net, dotNet Core, Azure and Azure DevOps.
+- 👋 Hi, I’m Jitendra, currently working at Microsoft as a Senior Software Engineer in .Net, dotNet Core, Azure and Azure DevOps.
 - 👀 I’m interested in Cloud and Mobile Technologies.
 - 🌱 I’m currently learning and implementing hands-on projects in Azure and Azure DevOps.
 - 💞️ Making Youtube tutorials on Azure DevOps - https://www.youtube.com/channel/UCwJoL7MMlwQIz0A2UPFyn7w 
